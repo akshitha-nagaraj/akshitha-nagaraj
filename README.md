@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m Akshitha Nagaraj, a third year CS Major at UCSC with a focus on machine learning. With hands-on experience in data science and ML, I want to bridge the gap between cutting-edge computational methods and real-world industry challenges through the various projects I take on.
+
+📬 Let’s connect! Reach me at akshitha.m.nagaraj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/akshitha-nagaraj).
+
 <!--
 **akshitha-nagaraj/akshitha-nagaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
