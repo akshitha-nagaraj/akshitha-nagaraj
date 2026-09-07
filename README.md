@@ -7,8 +7,8 @@ I'm Akshitha Nagaraj, an MS Computer Science grad from UC Santa Cruz (3.97 GPA),
 - A paper-search / lit-review agent built on the arXiv and Semantic Scholar APIs (LangChain, FastAPI)
 
 🏆 Recent work:
-- Co-first author, "A Weather-Aware, Safety-Validated Routing and Airspace Management Framework for Urban Air Mobility" — accepted, AIAA SciTech 2027
-- "Eyebrow Movements Predict Sentence Intent Judgements" — accepted poster, Psychonomics 2026
+- Co-first author, "A Weather-Aware, Safety-Validated Routing and Airspace Management Framework for Urban Air Mobility": accepted, AIAA SciTech 2027
+- "Eyebrow Movements Predict Sentence Intent Judgements": accepted poster, Psychonomics 2026
 - Jeppesen ForeFlight Award + CITRIS Aviation Prize, 2026
 
 📬 Let’s connect! Reach me at akshitha.m.nagaraj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/akshitha-nagaraj).
