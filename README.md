@@ -3,7 +3,8 @@
 I'm Akshitha Nagaraj, an MS Computer Science grad from UC Santa Cruz (3.97 GPA), focused on ML systems and inference optimization.
 
 🔭 Currently working on:
-* **vllm-prefix-router**: routes chat requests across vLLM servers on Kubernetes to the one most likely to have the prompt prefix cached. About 35% lower time to first token than round-robin when distinct system prompts exceed cache capacity. [repo link](https://github.com/akshitha-nagaraj/vllm-prefix-router)
+
+* **vllm-prefix-router**: routes chat requests across vLLM servers on Kubernetes to the one most likely to have the prompt prefix cached. At 128 distinct system prompts it served 60% of prompt tokens from cache vs 44% for round-robin and cut median time to first token by 33%. [repo link](https://github.com/akshitha-nagaraj/vllm-prefix-router)
 * LLM inference optimization (KV cache eviction policies): code and results private pending publication, happy to walk through methodology directly
 
 🏆 Recent work:
