@@ -3,8 +3,8 @@
 I'm Akshitha Nagaraj, an MS Computer Science grad from UC Santa Cruz (3.97 GPA), focused on ML systems and inference optimization.
 
 🔭 Currently working on:
-- LLM inference optimization (KV cache eviction policies): code and results private pending publication, happy to walk through methodology directly
-- A paper-search / lit-review agent built on the arXiv and Semantic Scholar APIs (LangChain, FastAPI)
+* **vllm-prefix-router**: a request router for multiple vLLM servers on Kubernetes that sends each chat request to the server most likely to already have that prompt's prefix cached. Early benchmarks show about 35% lower time to first token than round-robin once distinct system prompts exceed per-server cache capacity, and no difference with few prompts. Measuring cache hit rates directly to confirm why. [repo link](https://github.com/akshitha-nagaraj/vllm-prefix-router)
+* LLM inference optimization (KV cache eviction policies): code and results private pending publication, happy to walk through methodology directly
 
 🏆 Recent work:
 - Co-first author, "A Weather-Aware, Safety-Validated Routing and Airspace Management Framework for Urban Air Mobility": accepted, AIAA SciTech 2027
